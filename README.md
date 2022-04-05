@@ -37,7 +37,7 @@ The configuration details of each machine may be found below.
 The machines on the internal network are not exposed to the public Internet. 
 
 Only the Jump Box and Elk machine can accept connections from the Internet. Access to this machine is only allowed from the following IP addresses:
-- 24.7.243.165
+- 104.43.143.50
 
 Machines within the network can only be accessed by the Jump Box Provisioner and it's IP address is 10.0.0.4
 
